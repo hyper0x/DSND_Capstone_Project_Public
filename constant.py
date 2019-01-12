@@ -29,7 +29,7 @@ sys.modules[__name__] = Const()
 import constant
 
 constant.DATA_DIR = 'data'  # store the original data file
-constant.PROCESSED_DATA_DIR = ' processed_data'  # store files containing processed data
+constant.PROCESSED_DATA_DIR = 'processed_data'  # store files containing processed data
 constant.MODEL_DIR = 'model'  # store the trained model files
 
 constant.JSON_PORTFOLIO = 'portfolio.json'

@@ -106,6 +106,7 @@ venv.bak/
 # IDE
 .vscode/
 
-# Stored files
-# processed_data/
-# model/
+# Resulting files
+images/
+processed_data/
+model/
