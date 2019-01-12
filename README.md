@@ -75,8 +75,6 @@ I divided Starbucks customers into 6 clustering through a clustering model.
 
 The characteristics of these customers are still relatively obvious. First of all, I think Starbucks should focus on the customers that cluster 0 and cluster 4 contain. Second, they can focus on developing the customers included in cluster 1.
 
-![Figure - Average numbers of times customers responded to each offer in different clusters](images/response_clusters-resp_number_mean.png)
-
 For cluster 2 contains customers and clustering 3 of customers, because their preference for different kinds of the offer is pronounced, so I think Starbucks should adapt to their favorites. Further, we can look at the reasons why they have such a preference. For example, the reason some customers have a clear choice for BOGO offer is that they often enjoy coffee with their friends. If that's the case, then Starbucks can usually send them an offer for a variety of combination packages. On the contrary, if customers prefer discount offers, Starbucks can offer them a discount strategy in the form of a ladder.
 
 Also, for cluster 5 customers, I think Starbucks can put them in the lowest position. They're not supposed to be Starbucks regular customers. Most of them are of medium age and income but do not seem interested in any form of promotion.
@@ -85,7 +83,7 @@ Finally, if we want to get more value out of the data, we should make the inform
 
 ### Blog
 
-For a general description of the project and the analysis process involved, see [my blog](#)
+For a general description of the project and the analysis process involved, see [my blog post](https://medium.com/@hyper0x/how-do-starbucks-customers-respond-to-promotions-6b47589c57b0).
 
 ### Licensing <a name="licensing"></a>
 
